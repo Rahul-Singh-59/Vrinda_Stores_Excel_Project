@@ -1,2 +1,1 @@
-# Vrinda-Stores-Sales
-Objectives : To improve sales and increase revenue
+Creation of an Excel interactive sales dashboard for analysis and gaining insights for increasing revenue for Vrinda stores
